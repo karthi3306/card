@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.5b637486.css",
-    "main.js": "/demo/static/js/main.0b532264.js",
-    "static/js/453.1b6cbde4.chunk.js": "/demo/static/js/453.1b6cbde4.chunk.js",
-    "static/media/One Piece.jpg": "/demo/static/media/One Piece.ed502f66f57c19c8816c.jpg",
-    "static/media/bleach1.jpg": "/demo/static/media/bleach1.84964634a90cde34de0d.jpg",
-    "index.html": "/demo/index.html",
-    "main.5b637486.css.map": "/demo/static/css/main.5b637486.css.map",
-    "main.0b532264.js.map": "/demo/static/js/main.0b532264.js.map",
-    "453.1b6cbde4.chunk.js.map": "/demo/static/js/453.1b6cbde4.chunk.js.map"
+    "main.css": "/card/static/css/main.5b637486.css",
+    "main.js": "/card/static/js/main.81607bff.js",
+    "static/js/453.1b6cbde4.chunk.js": "/card/static/js/453.1b6cbde4.chunk.js",
+    "static/media/One Piece.jpg": "/card/static/media/One Piece.ed502f66f57c19c8816c.jpg",
+    "static/media/bleach1.jpg": "/card/static/media/bleach1.84964634a90cde34de0d.jpg",
+    "index.html": "/card/index.html",
+    "main.5b637486.css.map": "/card/static/css/main.5b637486.css.map",
+    "main.81607bff.js.map": "/card/static/js/main.81607bff.js.map",
+    "453.1b6cbde4.chunk.js.map": "/card/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b637486.css",
-    "static/js/main.0b532264.js"
+    "static/js/main.81607bff.js"
   ]
 }
